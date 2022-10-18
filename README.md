@@ -1,2 +1,2 @@
-# goal_analysis
-Analysis of goals trends in major football tournaments
+# Goal analysis
+### Analysis of goals trends in major football tournaments
